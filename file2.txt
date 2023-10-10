@@ -1,2 +1,2 @@
-Hi my surname is Karpich
-I am doing a lab on Git right now
+Hi! My surname is Karpich and my name is Vanya
+I study at the HSE Nizhny Novgorod campus
